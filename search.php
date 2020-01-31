@@ -14,7 +14,6 @@ bruni
 butterroyale
 columbia
 cosette
-dior
 dsquared
 farmingsim20
 fireboy
@@ -29,14 +28,12 @@ kingrabbit
 kingscastle
 knightsquad
 koji
-lanvin
 lougotcash
 machado
 mackinnon
 magiclegends
 meteorfall
 mizuno
-monstertruck
 motox3m
 nickbosa
 pandora
@@ -45,12 +42,8 @@ pubgspring
 ramirez
 rulessurvival
 rustland
-saintlaurent
-schitts
-seiya
 smifwessun
 stanton
-tetris99
 tokyomirage
 toyblast
 treebranches
@@ -92,6 +85,7 @@ cannons
 chimpanzee
 chipmunks
 confederateflag
+dior
 england
 fallcolors
 firefighters
@@ -172,6 +166,7 @@ hungryshark
 jacksepticeye
 jaydayoungan
 johndeere
+lanvin
 legobuilder
 lilbaby
 lilbaby2
@@ -192,6 +187,7 @@ mookie
 meganthee
 monstax
 monsterenergy
+monstertruck
 mortalkombat11
 monsterlegends
 nbayoungboy
@@ -203,7 +199,10 @@ nlechoppa
 nwa
 partynextdoor
 rodwave
+saintlaurent
+schitts
 search.php
+seiya
 sherzer
 snackworld
 squirrel
@@ -211,6 +210,7 @@ stormzy
 subaruwrx
 talkingtom
 tennisclash
+tetris99
 titleist
 traeyoung
 ultimaterivals
@@ -327,6 +327,7 @@ $codeList = [
   "cutebabies" => 219,
   "cyberhunter" => 212,
   "dababy" => 211,
+  "dior" => 219, 
   "doncic" => 214,
   "disneyworld" => 219,
   "dragonballsuper" => 219,
@@ -354,6 +355,7 @@ $codeList = [
   "jacksepticeye" => 219,
   "jaydayoungan" => 205,
   "johndeere" => 218,
+  "lanvin" => 219,
   "legobuilder" => 219,
   "lilbaby" => 211,
   "lilbaby2" => 211,
@@ -373,6 +375,7 @@ $codeList = [
   "monstax" => 205,
   "monsterenergy" => 206,
   "monsterlegends" => 219,
+  "monstertruck" => 219,
   "mortalkombat11" => 219,
   "nbayoungboy" => 205,
   "nipseyhussle" => 219,
@@ -385,6 +388,9 @@ $codeList = [
   "patek" => 219,
   "redblackshards2" => 218,
   "rodwave" => 205,
+  "saintlaurent" => 219,
+  "schitts" => 219,
+  "seiya" => 219,
   "sherzer" => 219,
   "snackworld" => 219,
   "squirrel" => 219,
@@ -392,6 +398,7 @@ $codeList = [
   "subaruwrx" => 210,
   "talkingtom" => 212,
   "tennisclash" => 212,
+  "tetris99" => 219,
   "titleist" => 219,
   "traeyoung" => 205,
   "ultimaterivals" => 212,
