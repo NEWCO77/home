@@ -7,7 +7,6 @@ TIDs AFTER THIS LINE
 aaronjones
 aesop
 afkarena
-armani
 babyyoda2
 basquiat
 bendel
@@ -34,10 +33,8 @@ lanvin
 lougotcash
 machado
 mackinnon
-maga
 magiclegends
 meteorfall
-mikeyshorts
 mizuno
 monstertruck
 motox3m
@@ -62,7 +59,6 @@ tuukka
 tyreekhill
 vex4
 warorder
-westofdead
 yelich
 yurman
 TIDs BEFORE THIS LINE
@@ -84,6 +80,7 @@ $testSearch4List = <<<EOT
 // BENSEN BING
 TIDs AFTER THIS LINE
 2020calendar
+armani
 birdwatching
 blackblueshards
 blackgreen
@@ -185,8 +182,10 @@ lindor
 lonzoball
 madden20
 madden19
+maga
 mariokart
 mia2
+mikeyshorts
 milesm
 mille
 mookie
@@ -219,6 +218,7 @@ unleashlight
 warface
 warrobots
 wartortise2
+westofdead
 ynwmelly
 TIDs BEFORE THIS LINE
 EOT;
@@ -291,6 +291,7 @@ $codeList = [
   "anuelaa" => 205,
   "anuelaa2" => 205,
   "arenado" => 214,
+  "armani" => 219, 
   "asusrog" => 219,
   "azurlane" => 212,
   "babyyoda" => 217,
@@ -362,9 +363,11 @@ $codeList = [
   "lindor" => 214,
   "lonzoball" => 214,
   "madden20" => 207,
+  "maga" => 219,
   "mariokart" => 219,
   "meganthee" => 205,
   "mia2" => 219,
+  "mikeyshorts" => 219,
   "milesm" => 219,
   "mille" => 219,
   "monstax" => 205,
@@ -396,6 +399,7 @@ $codeList = [
   "warrobots" => 212,
   "warface" => 219,
   "wartortise2" => 212,
+  "westofdead" => 219,
   "yelich" => 219,
   "ynwmelly" => 205,
   "breitling" => 218,
