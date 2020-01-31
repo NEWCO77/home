@@ -19,6 +19,7 @@ farmingsim20
 fireboy
 fishingclash
 footballstrike
+gerritcole
 gunblood
 hotslide
 ji
