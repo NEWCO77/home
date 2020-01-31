@@ -12,7 +12,6 @@ babyyoda2
 basquiat
 bendel
 bruni
-burberry
 butterroyale
 columbia
 cosette
@@ -72,6 +71,18 @@ EOT;
 $testSearch2List = <<<EOT
 // MANIC BING GENERICS
 TIDs AFTER THIS LINE
+TIDs BEFORE THIS LINE
+EOT;
+
+$testSearch3List = <<<EOT
+// REDSPARK BING
+TIDs AFTER THIS LINE
+TIDs BEFORE THIS LINE
+EOT;
+
+$testSearch4List = <<<EOT
+// BENSEN BING
+TIDs AFTER THIS LINE
 2020calendar
 birdwatching
 blackblueshards
@@ -98,18 +109,6 @@ morningdew
 pasta
 redblackshards2
 seafood
-TIDs BEFORE THIS LINE
-EOT;
-
-$testSearch3List = <<<EOT
-// REDSPARK BING
-TIDs AFTER THIS LINE
-TIDs BEFORE THIS LINE
-EOT;
-
-$testSearch4List = <<<EOT
-// BENSEN BING
-TIDs AFTER THIS LINE
 altuve
 anuelaa
 anuelaa2
@@ -262,6 +261,32 @@ $codeList = [
 "redblackshards2"  => 611,
 "seafood"  => 611,
 /* testSearch4 */
+ "2020calendar
+ "birdwatching
+ "blackblueshards
+ "blackgreen
+ "brownowl
+ "boasnake
+ "bocceball
+ "bluejay
+ "cannons
+ "chimpanzee
+ "chipmunks
+ "confederateflag
+ "england
+ "fallcolors
+ "firefighters
+ "frenchies2
+ "guinea
+ "gummies
+ "greyhound
+ "ireland
+ "lanterns
+ "meteorshower
+ "morningdew
+ "pasta
+ "redblackshards2
+ "seafood
   "altuve" => 219, 
   "anuelaa" => 205,
   "anuelaa2" => 205,
