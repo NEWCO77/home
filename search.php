@@ -269,7 +269,7 @@ $codeList = [
  "boasnake" => 219,
  "bocceball" => 219,
  "bluejay" => 219,
- "cannons" => 219," => 219,
+ "cannons" => 219, 
  "chimpanzee" => 219,
  "chipmunks" => 219,
  "confederateflag" => 219,
