@@ -10,8 +10,6 @@ babyyoda2
 basquiat
 bendel
 bruni
-butterroyale
-columbia
 dsquared
 farmingsim20
 fishingclash
@@ -74,6 +72,7 @@ brownowl
 boasnake
 bocceball
 bluejay
+butterroyale
 cannons
 chimpanzee
 chipmunks
@@ -127,6 +126,7 @@ cathkidston
 citygirls
 cobragolf
 coinmaster
+columbia
 combopanda
 creativedestruction
 cutebabies
@@ -316,6 +316,7 @@ $codeList = [
   "bregman" => 214,
   "btsworld" => 219,
   "burberry" => 218,
+  "butterroyale" => 219,
   "nikejordan" => 216, 
   "brawlstars" => 212,
   "brawlstars2" => 212,
@@ -324,6 +325,7 @@ $codeList = [
   "cartier" => 218,
   "cathkidston" => 219,
   "citygirls" => 219,
+  "columbia" => 219,
   "coinmaster" => 212,
   "confederateflag" => 218,
   "cosette" => 219,
