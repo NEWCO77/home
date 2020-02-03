@@ -6,28 +6,22 @@ TIDs AFTER THIS LINE
 7mankind
 aaronjones
 aesop
-afkarena
 babyyoda2
 basquiat
 bendel
 bruni
 butterroyale
 columbia
-cosette
 dsquared
 farmingsim20
-fireboy
 fishingclash
 footballstrike
 gerritcole
 gunblood
 hotslide
-ji
 justblack
 kareemhunt
 kingrabbit
-kingscastle
-knightsquad
 koji
 lougotcash
 machado
@@ -35,20 +29,16 @@ mackinnon
 magiclegends
 meteorfall
 mizuno
-motox3m
 nickbosa
 pandora
 piratesoutlaws
-pubgspring
 ramirez
 rulessurvival
 rustland
-smifwessun
 stanton
 tokyomirage
 toyblast
 travelzurich
-treebranches
 trollface
 tuukka
 tyreekhill
@@ -75,6 +65,7 @@ $testSearch4List = <<<EOT
 // BENSEN BING
 TIDs AFTER THIS LINE
 2020calendar
+afkarena
 armani
 birdwatching
 blackblueshards
@@ -87,9 +78,11 @@ cannons
 chimpanzee
 chipmunks
 confederateflag
+cosette
 dior
 england
 fallcolors
+fireboy
 firefighters
 frenchies2
 guinea
@@ -167,7 +160,10 @@ hotelempire
 hungryshark
 jacksepticeye
 jaydayoungan
+ji
 johndeere
+kingscastle
+knightsquad
 lanvin
 legobuilder
 lilbaby
@@ -192,6 +188,7 @@ monsterenergy
 monstertruck
 mortalkombat11
 monsterlegends
+motox3m
 nbayoungboy
 nhl20
 nhl202
@@ -200,12 +197,14 @@ nipseyhussle
 nlechoppa
 nwa
 partynextdoor
+pubgspring
 rodwave
 saintlaurent
 schitts
 search.php
 seiya
 sherzer
+smifwessun
 snackworld
 squirrel
 stormzy
@@ -215,6 +214,7 @@ tennisclash
 tetris99
 titleist
 traeyoung
+treebranches
 ultimaterivals
 unleashlight
 warface
@@ -284,11 +284,12 @@ $codeList = [
  "greyhound" => 219,
  "ireland" => 219,
  "lanterns" => 219,
- "meteorshower" => 219,
- "morningdew" => 219,
- "pasta" => 219,
- "redblackshards2" => 219,
- "seafood" => 219,
+  "meteorshower" => 219,
+  "morningdew" => 219,
+  "pasta" => 219,
+  "redblackshards2" => 219,
+  "seafood" => 219,
+  "afkarena" => 219, 
   "altuve" => 219, 
   "anuelaa" => 205,
   "anuelaa2" => 205,
@@ -325,6 +326,7 @@ $codeList = [
   "citygirls" => 219,
   "coinmaster" => 212,
   "confederateflag" => 218,
+  "cosette" => 219,
   "creativedestruction" => 212,
   "cutebabies" => 219,
   "cyberhunter" => 212,
@@ -338,6 +340,7 @@ $codeList = [
   "energy2" => 206,
   "eveechoes" => 212,
   "fifa20" => 203,
+  "fireboy" => 219,
   "fivio" => 219,
   "fordf150" => 219,
   "freefall" => 219,
@@ -356,7 +359,10 @@ $codeList = [
   "hungryshark" => 219,
   "jacksepticeye" => 219,
   "jaydayoungan" => 205,
+  "ji" => 219, 
   "johndeere" => 218,
+  "kingscastle" => 219, 
+  "knightsquad" => 219, 
   "lanvin" => 219,
   "legobuilder" => 219,
   "lilbaby" => 211,
@@ -379,6 +385,7 @@ $codeList = [
   "monsterlegends" => 219,
   "monstertruck" => 219,
   "mortalkombat11" => 219,
+  "motox3m" => 219,
   "nbayoungboy" => 205,
   "nipseyhussle" => 219,
   "nhl202" => 219,
@@ -388,12 +395,14 @@ $codeList = [
   "nwa" => 219,
   "partynextdoor" => 205,
   "patek" => 219,
+  "pubgspring" => 219,
   "redblackshards2" => 218,
   "rodwave" => 205,
   "saintlaurent" => 219,
   "schitts" => 219,
   "seiya" => 219,
   "sherzer" => 219,
+  "smifwessun" => 219,
   "snackworld" => 219,
   "squirrel" => 219,
   "stormzy" => 219,
@@ -403,6 +412,7 @@ $codeList = [
   "tetris99" => 219,
   "titleist" => 219,
   "traeyoung" => 205,
+  "treebranches" => 219,
   "ultimaterivals" => 212,
   "unleashlight" => 212,
   "warrobots" => 212,
