@@ -1,4 +1,5 @@
 <?php
+/* Test comment */
   if (isset($welcomePage)) {
 	return;
   }
