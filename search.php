@@ -16,6 +16,7 @@ fishingclash
 footballstrike
 fossil
 gerritcole
+grounded
 gunblood
 hotslide
 justblack
@@ -30,6 +31,8 @@ nickbosa
 pandora
 ramirez
 rustland
+ryangarcia
+shadowgunwar
 stanton
 tokyomirage
 toyblast
@@ -38,6 +41,7 @@ trollface
 tuukka
 tyreekhill
 vex4
+whitesnake
 yelich
 yurman
 TIDs BEFORE THIS LINE
