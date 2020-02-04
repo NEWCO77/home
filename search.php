@@ -10,10 +10,12 @@ babyyoda2
 basquiat
 bendel
 bruni
+davines
 dsquared
 farmingsim20
 fishingclash
 footballstrike
+fossil
 gerritcole
 gunblood
 hotslide
