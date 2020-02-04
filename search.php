@@ -8,7 +8,6 @@ aaronjones
 aesop
 babyyoda2
 basquiat
-bendel
 bruni
 davines
 dsquared
@@ -22,18 +21,14 @@ hotslide
 justblack
 kareemhunt
 kingrabbit
-koji
 lougotcash
-machado
 mackinnon
 magiclegends
 meteorfall
 mizuno
 nickbosa
 pandora
-piratesoutlaws
 ramirez
-rulessurvival
 rustland
 stanton
 tokyomirage
@@ -43,7 +38,6 @@ trollface
 tuukka
 tyreekhill
 vex4
-warorder
 yelich
 yurman
 TIDs BEFORE THIS LINE
@@ -67,6 +61,7 @@ TIDs AFTER THIS LINE
 2020calendar
 afkarena
 armani
+bendel
 birdwatching
 blackblueshards
 blackgreen
@@ -166,6 +161,7 @@ ji
 johndeere
 kingscastle
 knightsquad
+koji
 lanvin
 legobuilder
 lilbaby
@@ -175,6 +171,7 @@ liltecca
 liltjay
 lindor
 lonzoball
+machado
 madden20
 madden19
 maga
@@ -199,8 +196,10 @@ nipseyhussle
 nlechoppa
 nwa
 partynextdoor
+piratesoutlaws
 pubgspring
 rodwave
+rulessurvival
 saintlaurent
 schitts
 search.php
@@ -220,6 +219,7 @@ treebranches
 ultimaterivals
 unleashlight
 warface
+warorder
 warrobots
 wartortise2
 westofdead
@@ -305,6 +305,7 @@ $codeList = [
   "battleprime" => 212,
   "battlelands"  => 219,
   "beckyg" => 219,
+  "bendel" => 219, 
   "billieellish" => 219,
   "beybladeburst" => 212,
   "bitlife" => 212,
@@ -367,6 +368,7 @@ $codeList = [
   "johndeere" => 218,
   "kingscastle" => 219, 
   "knightsquad" => 219, 
+  "koji" => 219,  
   "lanvin" => 219,
   "legobuilder" => 219,
   "lilbaby" => 211,
@@ -376,6 +378,7 @@ $codeList = [
   "liltjay" => 205,
   "lindor" => 214,
   "lonzoball" => 214,
+  "machado" => 219,
   "madden20" => 207,
   "maga" => 219,
   "mariokart" => 219,
@@ -399,9 +402,11 @@ $codeList = [
   "nwa" => 219,
   "partynextdoor" => 205,
   "patek" => 219,
+  "piratesoutlaws" => 219, 
   "pubgspring" => 219,
   "redblackshards2" => 218,
   "rodwave" => 205,
+  "rulessurvival" => 219,
   "saintlaurent" => 219,
   "schitts" => 219,
   "seiya" => 219,
@@ -419,6 +424,7 @@ $codeList = [
   "treebranches" => 219,
   "ultimaterivals" => 212,
   "unleashlight" => 212,
+  "warorder" => 219,
   "warrobots" => 212,
   "warface" => 219,
   "wartortise2" => 212,
